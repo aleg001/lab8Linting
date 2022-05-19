@@ -15,8 +15,6 @@ Realizado con las siguientes tecnologías:
 - Llamado al servidor de la clase para el laberinto
 - eslint sin errores
 
-Markdown is a lightweight markup language based on the formatting conventions
-that people naturally use in email.
 Se siguieron las siguientes instrucciones
 
 > npm install eslint
@@ -37,12 +35,10 @@ Se siguieron las siguientes instrucciones
 > // editen su package json
 > "scripts": {
 > ...
-
-    "lint": "eslint src/**"
-
-}
-// corran en su terminal
-$ npm run lint
-// npm run lint no debe retornar errores, limpien su codigo
-
+> "lint": "eslint src/**"
+>}
+>// corran en su terminal
+>$ npm run lint
+>// npm run lint no debe retornar errores, limpien su codigo
+>
 >
